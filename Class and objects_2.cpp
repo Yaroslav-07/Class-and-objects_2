@@ -66,7 +66,7 @@ int main(){
 			}
 		}
 			std::cout << "До свидания!";
-
+			return 0;
 	}
 	
 
